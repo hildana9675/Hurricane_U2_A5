@@ -1,5 +1,5 @@
 /* HIldana. M
- * Hurricane_U2_A5
+ * Hurricane_U2_A5.java
  * This program informs the user the windspeed of a hurricane(depending 
  * on the category
  * March/23/2018
